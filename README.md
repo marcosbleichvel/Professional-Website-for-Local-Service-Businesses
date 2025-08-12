@@ -4,10 +4,6 @@ This project is a professional, feature-rich website designed for local service 
 
 **Live Demo:** [https://URL_DO_SEU_PROJETO_ONLINE.netlify.app](https://URL_DO_SEU_PROJETO_ONLINE.netlify.app)
 
----
-
-![Project Screenshot](URL_DA_SUA_IMAGEM_AQUI.png)
-
 ### Key Features
 
 * **Interactive Photo Gallery:** A custom-built lightbox showcases high-quality work, allowing potential clients to see every detail without leaving the page.
