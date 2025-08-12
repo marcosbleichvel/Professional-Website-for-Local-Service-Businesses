@@ -2,7 +2,11 @@
 
 This project is a professional, feature-rich website designed for local service businesses like contractors and craftsmen. It was built from the ground up to demonstrate how a strong online presence can attract customers, build trust, and streamline client communication.
 
-**Live Demo:** [https://URL_DO_SEU_PROJETO_ONLINE.netlify.app]
+**Live Demo:** [https://URL_DO_SEU_PROJETO_ONLINE.netlify.app](https://URL_DO_SEU_PROJETO_ONLINE.netlify.app)
+
+---
+
+![Project Screenshot](URL_DA_SUA_IMAGEM_AQUI.png)
 
 ### Key Features
 
